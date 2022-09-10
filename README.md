@@ -1,7 +1,9 @@
 
 <h1 align="left">Hi 👋, I'm Muhammed Altay</h1>
 <h3 align="left">A guy on his way to be frontend developer</h3>
-
+<br><br><br>
+<img src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif" width="300" />
+<br>
 
 - 🌱 I’m currently learning **Next.js**
 
