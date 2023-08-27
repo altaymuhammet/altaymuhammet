@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS,Javascript, React**
+- 💬 Ask me about **HTML, CSS,Javascript, React, Next**
 
 - 📫 How to reach me **altaymuhammed3@gmail.com**
 
